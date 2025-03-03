@@ -1,0 +1,44 @@
+{
+	"name": "vsc-community-material-theme-darker-hc",
+	"displayName": "Community Material Theme - Darker High Contrast",
+	"description": "A standalone version of the Darker High Contrast theme from Community Material Theme.",
+	"version": "1.0.0",
+	"publisher": "GoodM4ven",
+	"license": "MIT",
+	"author": "Original: Mattia Astorino [@equinusocio] - Maintained by the community",
+	"icon": "logo.png",
+	"homepage": "https://github.com/GoodM4ven/vsc-community-material-theme-darker-hc",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/GoodM4ven/vsc-community-material-theme-darker-hc.git"
+	},
+	"bugs": {
+		"url": "https://github.com/GoodM4ven/vsc-community-material-theme-darker-hc/issues"
+	},
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"VSCode",
+		"Themes",
+		"Material",
+		"Dark",
+		"High Contrast"
+	],
+	"extensionKind": [
+		"ui"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Community Material Theme Darker High Contrast",
+				"path": "./themes/Community-Material-Theme-Darker-High-Contrast.json",
+				"uiTheme": "vs-dark"
+			}
+		]
+	}
+}
+
