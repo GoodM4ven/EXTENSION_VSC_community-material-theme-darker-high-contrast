@@ -17,7 +17,7 @@ A total mess of weird monetization efforts going on at the [original repo](https
 },
 ```
 
-## Credits
+### Credits
 
 - The actual community
 - ChatGPT
