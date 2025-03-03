@@ -1,11 +1,11 @@
 <div align="center">بسم الله الرحمن الرحيم</div>
 <div align="left">
 
-# Community Material Theme - Darker High Contrast
+## Community Material Theme - Darker High Contrast
 
-A total mess of weird monetization efforts going on at the [original repo](https://github.com/material-theme/vsc-material-theme). That's why this theme was isolated like this...
+A total mess of weird monetization efforts going on at the [original repo](https://github.com/material-theme/vsc-material-theme). That's why this theme was "extracted" like this...
 
-## Recommended Settings
+### Recommended Settings
 
 ```json
 "workbench.colorCustomizations": {
