@@ -3,7 +3,7 @@
 
 ## Community Material Theme - Darker High Contrast
 
-A total mess of weird monetization efforts going on at the [original repo](https://github.com/material-theme/vsc-material-theme). That's why this theme was "extracted" like this...
+Due to recent monetization changes in the [original repo](https://github.com/material-theme/vsc-material-theme), this theme has been extracted as a standalone version for those who prefer the classic Darker High Contrast experience.
 
 ### Recommended Settings
 
