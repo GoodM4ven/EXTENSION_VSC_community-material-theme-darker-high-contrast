@@ -7,7 +7,7 @@ Due to recent monetization changes in the [original repo](https://github.com/mat
 
 ### Download
 
-<a href="https://open-vsx.org/extension/GoodM4ven/vsc-community-material-theme-darker-hc">
+<a href="https://open-vsx.org/extension/GoodM4ven/extension-vsc-community-material-theme-darker-high-contrast">
     <img src="https://github.com/user-attachments/assets/b2c3a77d-be35-4a04-8906-7695d7695cf1" />
 </a>
 
